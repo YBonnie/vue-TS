@@ -1,5 +1,5 @@
 # vue-TS
-Package components with Vue and TS
+# Package components with Vue and TS
 
-npm i
-npm run serve
+# npm i
+# npm run serve
